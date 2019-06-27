@@ -1,2 +1,2 @@
-n = input(2019)
+n = input()
 print(n)
