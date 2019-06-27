@@ -1,3 +1,3 @@
-n = input("year_of_birth:")
-age = 2019 - year_of_birth
-print(age)
+year_of_birth = input("year_of_birth:")
+age = 2019 - int(year_of_birth)
+print("now, your are", age, "years old")
