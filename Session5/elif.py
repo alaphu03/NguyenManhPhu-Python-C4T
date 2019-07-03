@@ -8,7 +8,3 @@
 #         print("mua thu")
 #     else:
 #         print("mua dong")   
-for i in range(input('How many random numbers?: ')):
-         line = int(random.randint(1, 100))
-         afile.write(line)
-         print(line)
