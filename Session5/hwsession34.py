@@ -1,4 +1,4 @@
-#          turtle exercise
+#          turtle exercise)
 
 # from turtle import *
 # color("red")
@@ -24,9 +24,9 @@
 
 
 
-#        serious exercise
+#        serious exercise)
 
-#        ex1, Tinh chi so BMI
+#        ex1) Tinh chi so BMI
 
 
 # height = int(input("height(cm):"))
@@ -44,7 +44,7 @@
 # else :
 #     print("Now,your BMI is ", BMI, "you are obese")
 
-#        ex2, tinh luy thua
+#        ex2) tinh luy thua
 
 # a = 1 
 # n = int(input("so nguoi dung nhap:"))
@@ -52,21 +52,21 @@
 #     a = a * i
 # print("luy thua so nguoi dung nhap:", a)
 
-#        ex3, 
-#       a,
-#     i,  
+#        ex3) 
+#       a)
+#     i)  
 
 # r1 = range(20)
 # print (*r1)
 
-#     ii,
+#     ii)
 
 # n = int(input("so nguoi dung nhap:"))
 # r2 = range(n)
 # print("day so tu 0 den so lien truoc nguoi dung nhap", *r2)
 
-#      b,
-#     i,
+#      b)
+#     i)
 
 # for i in range(1000):
 #     if i % 2 == 0:
@@ -74,7 +74,7 @@
 #     else:
 #         print (1, end = ' ')
 
-# ii,
+#      ii)
 
 # n = int(input("so cap so 0 va 1 lien tiep nguoi dung muon nhap:"))
 # for i in range(2*n):
@@ -83,8 +83,8 @@
 #     else:
 #         print (1, end = ' ')
 
-# c,
-# i,
+#        c)
+#      i)
 
 
 # for i in range(1, 10):
@@ -92,7 +92,7 @@
 #         print(i * j, end = ' ')
 #     print('')
 
-# ii,
+#      ii)
 
 # n = int(input("so nguoi dung muon:"))
 # for i in range(1, n+1):
@@ -102,8 +102,8 @@
 
 
 
-# d,
-# i,
+#       d)
+#      i)
 
 # for i in range(1, 11):
 #     for j in range(1, 11):
@@ -111,7 +111,7 @@
 #     print('')
 
 
-# ii,
+#       ii)
 
 # n = int(input("so cap so 0 va 1 nguoi dung muon print:"))
 # for i in range(1, n):
