@@ -34,9 +34,9 @@
 # h = height / 100
 # BMI = weight / (h * h)
 # if BMI < 16 :
-#     print("Now,your BMI is ", BMI, "you are Severely underweight")
+#     print("Now,your BMI is ", BMI, "you are severely underweight")
 # elif BMI < 18.5 :
-#     print("Now,your BMI is ", BMI, "you are Underweigh")   
+#     print("Now,your BMI is ", BMI, "you are underweigh")   
 # elif BMI < 25 :
 #     print("Now,your BMI is ", BMI, "you are normal")
 # elif BMI < 30 :
@@ -68,7 +68,7 @@
 #      b)
 #     i)
 
-# for i in range(1000):
+# for i in range(10):
 #     if i % 2 == 0:
 #         print (0, end = ' ')  
 #     else:
