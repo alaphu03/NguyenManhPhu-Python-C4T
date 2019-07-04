@@ -6,4 +6,5 @@
 #         break
 #     else :
 #         print("not a number")
-# print(2018 - int(txt))
+# length_of_string = len(txt)
+# print("The number you entered has ", length_of_string, "digit")
