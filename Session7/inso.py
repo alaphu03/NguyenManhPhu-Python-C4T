@@ -17,12 +17,16 @@
 #     else :
 #         print("not a natural number")
 
-while True:
-    n = input("Enter an odd number?")
-    if n.isdigit() and int(n) > 0 and int(n) % 2 == 1 :
-        int(r)= range(n+1, 0, -2)
-        print(*r)     
-    else :
-        print("Enter an odd number")
-
+# while True:
+#     n=int(input("Nhap n: "))
+#     if n >0 and n%2==0:
+#         r=range(n-1, 0, -2)
+#         print(*r)
+#         break
+#     elif n >0 and n%2==1:
+#         r=range(n, 0, -2)
+#         print(*r)
+#         break
+#     else:
+#         print("nhap n >0")
 
