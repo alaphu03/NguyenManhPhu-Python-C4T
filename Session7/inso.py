@@ -17,17 +17,12 @@
 #     else :
 #         print("not a natural number")
 
-# while True:
-#     n = input("Enter an odd number?")
-#     if n.isdigit() and int(n) > 0 and int(n) % 2 == 1 :
-#         f = range(int(n)+1)          
-#         print("day so lien tiep tu 0 den so ban vua nhap la:")
-#         print(0, f, 2)
-#         break
-#     else :
-#         print("Enter an odd number")
-f = range(12)
-print(*f, 2)
-        
+while True:
+    n = input("Enter an odd number?")
+    if n.isdigit() and int(n) > 0 and int(n) % 2 == 1 :
+        int(r)= range(n+1, 0, -2)
+        print(*r)     
+    else :
+        print("Enter an odd number")
 
 
