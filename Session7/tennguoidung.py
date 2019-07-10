@@ -1,12 +1,9 @@
-while True:
-    txt = input("Nhap ten cua ban :")
-    if txt.isalpha():
-        txt2 = input("Nhap ho cua ban:")
-    while True:
-        if txt2.isalpha():
-            print("ho va ten cua ban la:", txt2, txt)
-            break
-        else:
-            print("ho khong duoc phep co so")
-    else:
-        print("ten khong duoc phep co so")
+
+# while True:
+#     txt = input("ho cua ban la:")
+#     tst = input("ten cua ban la:")
+#     if txt.isalpha() and tst.isalpha():
+#         print("ho va ten cua ban la:", txt, tst)
+#         break
+#     else:
+#         print("ho va ten khong duoc phep co so")
