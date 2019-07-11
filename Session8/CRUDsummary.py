@@ -12,16 +12,16 @@ while True:
                 print(i) 
     elif n == "U":
         if len(items) == 0:
-            print("Danh sach rong")
+            print("Error")
         else:
             location = int(input("Nhap vi tri thu ban muon thay doi: "))
             items[location] = input("Thu ban muon thay doi: ")
     elif n == "D":
         if len(items) == 0:
-            print("Danh sach rong")
+            print("Error")
         else:
             location = int(input("Nhap vi tri thu ban muon xoa: "))
             items.pop(location)
     else:
-        break
+        print("chon 1 trong cac thao tac o tren:")
     print()
